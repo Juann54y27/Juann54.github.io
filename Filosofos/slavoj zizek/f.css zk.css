@@ -1,0 +1,66 @@
+body{background-color:firebrick;
+
+}
+
+header {
+    background-color:chocolate;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    
+  }
+  
+  h2{
+color: black;
+
+  }
+
+.pbio{
+    overflow: auto;
+    width: 15%;
+    padding: 5px;
+    height: 400px;
+    background-color:rgb(241, 73, 44);
+    float: left;
+    margin: 30px;
+    text-size-adjust: 50px;
+}
+
+.pcont{
+padding: 30px;
+font-size: 30px;
+line-height: 1.5em;
+
+
+}
+h3{
+    
+    text-size-adjust: 30px;
+}
+
+.pbio2{
+    position: relative;
+    width: 50%;
+    top: 200px;
+    overflow: auto;
+    float: right;
+    margin: 70px 20px;
+}
+
+.pcont2{
+    position: relative;
+    top:150px ;
+    padding: 30px;
+    font-size: 21px;
+    margin: 10px;
+    line-height: 1.5em;
+}
+
+.tit{
+    background-color:maroon;
+}
+
+.tit2{
+
+    text-decoration: underline;
+}

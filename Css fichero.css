@@ -1,0 +1,76 @@
+
+        body{
+            background-image:url(./imagenes/filosofia\ todo.jpg);
+       background-repeat: no-repeat;
+       background-size: 100% 100% ;
+       background-attachment: fixed;
+        }
+
+        ul{
+          list-style: none;
+        }
+
+
+      table{
+        width:100%;
+        position:absolute;
+        top:40%;
+        
+      }
+      .pr{
+        width:30%;
+        text-align: center;
+      }
+
+      .f1{
+        width:30%;
+        text-align: right;
+      }
+
+      .f2{
+        width:30%;
+        text-align: left;
+      }
+      
+            #filosofo1{
+               width: 100%;
+               font-weight: bolder;
+             
+             
+             
+               
+               
+           }
+      
+           #filosofo2{
+             width: 100%;
+             font-weight: bolder;
+             
+             
+      
+      
+      
+           }
+      
+           #det{
+           background-color: burlywood;
+         opacity: 0.8;
+         position: relative;
+         top: 20px;
+         left: 45px;
+         }
+      
+         a:hover{
+          background-color:darkgoldenrod;
+
+         }
+
+         a:visited{
+
+          color: blue;
+         }
+
+         a:active{
+
+          background-color: aliceblue;
+         }

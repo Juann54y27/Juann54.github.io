@@ -1,0 +1,60 @@
+header {
+    background-color:darkblue;
+    text-align: center;
+    font-size: 35px;
+    color:blueviolet;
+    
+  }
+
+  body{
+    background-color: darkslateblue;
+  }
+
+   
+  h2{
+    color: black;
+    
+      }
+    
+    .pbio{
+        overflow: auto;
+        width: 15%;
+        padding: 5px;
+        height: 500px;
+        background-color:darkslategrey;
+        float: left;
+        margin: 30px;
+        text-size-adjust: 50px;
+    }
+    
+    .pcont{
+    padding: 30px;
+    font-size: 30px;
+    line-height: 1.5em;
+    
+    
+    }
+    h3{
+        
+        text-size-adjust: 30px;
+    }
+    
+    
+
+    .pcont2{
+        position: relative;
+        top:150px ;
+        padding: 30px;
+        font-size: 25px;
+        margin: 10px;
+        line-height: 1.5em;
+    }
+    
+    h3{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: cornflowerblue;
+    }
+    
+  .tit2{
+    text-decoration: underline;
+  }
